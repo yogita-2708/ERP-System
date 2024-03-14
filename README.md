@@ -55,20 +55,33 @@ The orders page displays a list of orders with details such as order ID, custome
 
 ### Screenshots
 
+#### Navigation
 ![Navigation](screenshots/navbar.png)
 Utilize the navigation bar located at the top of the page to seamlessly switch between distinct sections of the application, including Dashboard, Products, and Orders.
+
+#### Dashboard
 ![Dashboard](screenshots/dashboard.png)
 The Dashboard page provides an overview of product and order information.
+
+#### Products Page
 ![Products](screenshots/products.png)
 In Products page, you can view, add, edit, and delete products.
-![Add Products](screenshots/addproduct.png)
+##### Add Product
+![Add Product](screenshots/addproduct.png)
 You can add products by clicking on the "Add Product" button, fill the required fields, and click "Save".
+##### Edit Product Details
 ![Edit Products](screenshots/productedit.png)
 To edit a product, click on the "Edit" button next to the product you want to edit. Update the information and click "Save".
+
+#### Orders Page
 ![Orders](screenshots/orders.png)
 In Orders page, you can view order details, update order status, and delete orders.
+##### View Order Details
 ![Order Details](screenshots/orderdetails.png)
 You can view details of each order by clicking on the "View Details" button. And after viewing, you can close the details by clicking on "Close Details".
+##### Order Calendar
 ![Order Calendar](screenshots/ordercalendars.png)
+##### Update Order Status
 ![Update Order Status](screenshots/orderupdate.png)
+
 You can update the status of an order to "Shipped" by clicking the "Ship" button.
